@@ -1,3 +1,3 @@
 # kindle
 
-Creates collection from folder's tree.
+Creates collection from folder tree.
